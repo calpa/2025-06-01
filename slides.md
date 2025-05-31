@@ -1,6 +1,6 @@
 ---
 theme: dracula
-title: 用 Bolt.new 實作 3 款手機 App：零程式也能 1 小時做出作品
+title: AI 煉金術：從靈感到落地的實作分享會
 transition: fade
 mdc: true
 ---
@@ -13,12 +13,23 @@ class: bg-[#172966] text-white font-mono
 ---
 
 <div class="text-3xl font-bold text-center leading-snug">
-  用 Bolt.new + Expo<br />
-  零程式也能 1 小時做出 3 款手機 App
+  AI 煉金術：從靈感到落地的實作分享會
 </div>
-<div class="text-xs opacity-50">2025-05-24</div>
+<div class="text-xs opacity-50">2025-06-01</div>
 
 <div class="text-xs italic opacity-50">Calpa Liu</div>
+
+---
+class: flex flex-col h-full justify-center items-center
+---
+
+<img src="https://pbs.twimg.com/media/Goq-xiub0AAEOMC?format=jpg&name=medium" class="w-2/3 my-4 object-contain mx-auto" />
+
+## World's Largest Hackathon
+
+by Bolt.new
+
+https://hackathon.dev/
 
 ---
 layout: center
@@ -33,7 +44,7 @@ class: bg-[#172966] text-white font-mono
 
 <div class="text-2xl sm:text-3xl text-green-300 mt-6" v-click>
   今天，我會帶你用 Bolt.new<br />
-  在 1 小時內實作出 3 款真的能跑的 Website + App！
+  在 1 小時內實作出 3 款真的能跑的 Website！
 </div>
 
 
@@ -186,7 +197,7 @@ layout: center
 class: bg-[#172966] text-white
 ---
 
-<div class="text-xl font-bold mb-2">📝 題目列表（1~15）</div>
+<div class="text-xl font-bold mb-2">📝 題目列表（1~10）</div>
 
 1️⃣ 健康管理  
 2️⃣ 語言學習  
@@ -322,13 +333,31 @@ class: bg-[#172966] text-white
 🔜 接下來，我們就要把這段話輸入 Bolt.new，生成你的第一個 App！
 
 ---
+layout: center
+class: bg-[#172966] text-white
+---
 
+## 🎯 今天我們一起經歷了什麼？
 
-## 謝謝大家
+1️⃣ 腦力激盪：靈感腦圖  
+2️⃣ 需求撰寫：寫出 App 構想句  
+3️⃣ 工具實作：用 Bolt.new 打造網站  
+4️⃣ 對話反饋：分享學習心得
 
-<img src="https://assets.calpa.me/感謝您讓我占用的寶貴時間.avif" class="w-2/3 my-4 object-contain mx-auto" />
+每一次點子落地，都是新的開始，
+AI 時代，你可以更快把夢想實現 🚀
 
+---
+layout: center
+class: bg-[#172966] text-white
+---
 
-<div class="text-sm text-white/60 mt-2">💬 想繼續交流、也歡迎私訊我或加入 Discord 群組！</div>
+## 📣 想持續獲得實作教學 + 線上活動？
 
-<div class="text-xs text-white/60 mt-2">© Calpa Liu. All rights reserved.</div>
+- 🧠 每週技術文章與實作案例
+- 🪄 私人社群與學習圈交流機會
+
+💌 加入我的 Discord & 訂閱部落格  
+https://calpa.me/
+
+📬 也可以私訊我，獲得本次 Slidev 原始碼 & 教學資源！
