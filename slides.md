@@ -32,10 +32,13 @@ by Bolt.new
 https://hackathon.dev/
 
 ---
+layout: center
+---
 
 🌎 全球最大線上黑客松（5/30–6/30）
 
-✅ 免費加入 Bolt Pro（$30 Credit）
+✅ 免費加入 Bolt Pro（價值：900 新台幣 Credit）
+
 ✅ 免費取得：
 - Expo Pro / RevenueCat / Entri 域名
 - ElevenLabs 聲音生成 / Sentry 錯誤追蹤
