@@ -20,35 +20,6 @@ class: bg-[#172966] text-white font-mono
 <div class="text-xs italic opacity-50">Calpa Liu</div>
 
 ---
-class: flex flex-col h-full justify-center items-center
----
-
-<img src="https://pbs.twimg.com/media/Goq-xiub0AAEOMC?format=jpg&name=medium" class="w-2/3 my-4 object-contain mx-auto" />
-
-## World's Largest Hackathon
-
-by Bolt.new
-
-https://hackathon.dev/
-
----
-layout: center
----
-
-🌎 全球最大線上黑客松（5/30–6/30）
-
-✅ 免費加入 Bolt Pro（價值：900 新台幣 Credit）
-
-✅ 免費取得：
-- Expo Pro / RevenueCat / Entri 域名
-- ElevenLabs 聲音生成 / Sentry 錯誤追蹤
-- Algorand API / Dev++ Membership...
-
-把今天做的 App 直接投稿！
-
-→ 我已成立秘密隊伍歡迎大家加入 ✨
-
----
 layout: center
 class: bg-[#172966] text-white font-mono
 ---
@@ -311,7 +282,7 @@ layout: center
 layout: center
 ---
 
-## 實作時間
+## 免費好康
 
 ---
 layout: center
@@ -348,6 +319,35 @@ class: bg-[#172966] text-white
 > 「我想做一個幫我記錄飲食與情緒的 App，使用者是上班族，輸入早餐、午餐、晚餐和心情後，系統會自動統計每日趨勢。」
 
 🔜 接下來，我們就要把這段話輸入 Bolt.new，生成你的第一個 App！
+
+---
+class: flex flex-col h-full justify-center items-center
+---
+
+<img src="https://pbs.twimg.com/media/Goq-xiub0AAEOMC?format=jpg&name=medium" class="w-2/3 my-4 object-contain mx-auto" />
+
+## World's Largest Hackathon
+
+by Bolt.new
+
+https://hackathon.dev/
+
+---
+layout: center
+---
+
+🌎 全球最大線上黑客松（5/30–6/30）
+
+✅ 免費加入 Bolt Pro（價值：900 新台幣 Credit）
+
+✅ 免費取得：
+- Expo Pro / RevenueCat / Entri 域名
+- ElevenLabs 聲音生成 / Sentry 錯誤追蹤
+- Algorand API / Dev++ Membership...
+
+把今天做的 App 直接投稿！
+
+→ 我已成立秘密隊伍歡迎大家加入 ✨
 
 ---
 layout: center
