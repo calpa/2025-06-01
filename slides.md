@@ -32,6 +32,19 @@ by Bolt.new
 https://hackathon.dev/
 
 ---
+
+🌎 全球最大線上黑客松（5/30–6/30）
+
+✅ 免費加入 Bolt Pro（$30 Credit）
+✅ 免費取得：
+- Expo Pro / RevenueCat / Entri 域名
+- ElevenLabs 聲音生成 / Sentry 錯誤追蹤
+- Algorand API / Dev++ Membership...
+
+把今天做的 App 直接投稿！
+→ 我已成立秘密隊伍歡迎大家加入 ✨
+
+---
 layout: center
 class: bg-[#172966] text-white font-mono
 ---
